@@ -1,0 +1,1 @@
+``To create Rest countries details,then get the value of weather in specify contries using open weather map API``
